@@ -1,7 +1,7 @@
 # ATM Machine Using JAVA OOPS Concepts
 
 ## 1. Project Overview :
-
+ 
 I developed a simple ATM machine simulation using Java that allows users to perform basic banking operations like checking balance, withdrawing money, depositing money, and exiting the system. The project implements key OOP principles, including encapsulation, inheritance, abstraction, and polymorphism, making the design more modular and maintainable.
 
 ## 2. Key Classes and Structure :
